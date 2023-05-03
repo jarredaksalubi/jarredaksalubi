@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jarred, an <a href="https://linkedin.com/in/JarredSalubi">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jarred, an <a href="https://linkedin.com/in/jarred-salubi-72324889">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
